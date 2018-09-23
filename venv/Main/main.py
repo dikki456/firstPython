@@ -14,6 +14,7 @@ except ValueError:
 else:
     pPCounter = splitCheck(bill, pson)
     print("Price per person {}$ ".format(pPCounter))
+    print("Hello every one how are you what are you doing  ".format(pPCounter))
 
 
 
