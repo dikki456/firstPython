@@ -7,7 +7,7 @@ def splitCheck(total,noOfPeople):
 try:
     bill = float(input("Enter billing ammount: "))
     pson = int(input("Enter no. of person: "))
-    sSon = input("hello")
+    sSon = input("Checking the amount of the bill")
 
 except ValueError:
     print("Lol,that not a valid value ")
